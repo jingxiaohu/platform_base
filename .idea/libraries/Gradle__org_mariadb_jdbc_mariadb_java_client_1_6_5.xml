@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: org.mariadb.jdbc:mariadb-java-client:1.6.5">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/mariadb/jdbc/mariadb-java-client/1.6.5/mariadb-java-client-1.6.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
