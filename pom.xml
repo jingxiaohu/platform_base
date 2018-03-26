@@ -11,7 +11,9 @@
 		<version>7</version>
 	</parent>-->
 
-
+	<name>platform_base</name>
+	<description>Integrated spring-cloud multiple packages to facilitate management of inheritance</description>
+	<url>https://github.com/jingxiaohu/platform_base</url>
 	<licenses>
 		<license>
 			<name>The Apache Software License, Version 2.0</name>
@@ -22,9 +24,9 @@
 
 	<scm>
 		<tag>platform_base-1.0.0</tag>
-		<url>git@github.com/jingxiaohu/platform_base.git</url>
-		<connection>scm:git:git@github.com:jingxiaohu/platform_base.git</connection>
-		<developerConnection>scm:git:git@github.com:jingxiaohu/platform_base.git</developerConnection>
+		<url>https://github.com/jingxiaohu/platform_base.git</url>
+		<connection>scm:https://github.com/jingxiaohu/platform_base.git</connection>
+		<developerConnection>scm:https://github.com/jingxiaohu/platform_base.git</developerConnection>
 	</scm>
 
 	<developers>
