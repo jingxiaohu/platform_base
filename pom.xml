@@ -25,8 +25,8 @@
 	<scm>
 		<tag>master</tag>
 		<url>https://github.com/jingxiaohu/platform_base</url>
-		<connection>git@github.com/jingxiaohu/platform_base.git</connection>
-		<developerConnection>https://www.51pyb.com</developerConnection>
+		<connection>git@github.com:jingxiaohu/platform_base.git</connection>
+		<!--<developerConnection>https://www.51pyb.com</developerConnection>-->
 	</scm>
 
 	<developers>
